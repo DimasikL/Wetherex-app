@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_bg">#66B3E5FC</color>
+    <color name="blue">#BFB2DCEF</color>
+    <color name="whBlue">#730085FF</color>
+    <color name="aBlue">#7300BCFF</color>
+    <color name="bBlue">#7300CFFF</color>
+    <color name="abBlue">#CC00BCFF</color>
+    <color name="bbBlue">#CC00CFFF</color>
+    <color name="cBlue">#007FFF</color>
+    <color name="cbBlue">#CC007FFF</color>
+    <color name="ccBlue">#A6007FFF</color>
+</resources>
